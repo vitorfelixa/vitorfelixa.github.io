@@ -1,2 +1,4 @@
 # 🚀 **Currículo**
-## - 💻 **https://vitorfelixa.github.io/CV/index.html**
+
+Segue link para acesso ao meu currículo:
+## 💻 **https://vitorfelixa.github.io/index.html**
